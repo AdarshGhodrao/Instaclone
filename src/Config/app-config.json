@@ -1,0 +1,15 @@
+{
+    "title": "SocialHub",
+    "description": "social media clone",
+    "baseUrl": "",
+    "audioscrobbler": "https://ws.audioscrobbler.com/2.0",
+    "lyricsOvh": "https://api.lyrics.ovh",
+    "websiteUrl": "",
+    "alternativeWebsiteUrl": "",
+    "getMyRepoUrl": "",
+    "repoUrl": "",
+    "codepenUrl": "",
+    "instagramUrl": "",
+    "emailAddress": "",
+    "githubUrl": ""
+}
